@@ -13,7 +13,7 @@ This infographic displays the dispersal of undergraduate students across the col
 
 
 ## Infographic 
-![Picture](https://github.com/mfkramer227/mfkramer227.github.io/blob/main/Shark%20Attacks%20Worldwide.jpg?raw=true)
+![Picture](https://github.com/mfkramer227/mfkramer227.github.io/blob/main/Shark%20Attacks%20Worldwide%20(2).jpg?raw=true)
 Source: [International Shark Attack File- Yearly Worldwide Summary](https://www.floridamuseum.ufl.edu/shark-attacks/yearly-worldwide-summary/)
 
 This infographic displays the breakdown of shark attack classfication by frequency using data from 2024. All of that data included is from the Yearly WorldWide Shark Attack Summary (2024) within the International Shark Attack File from the Florida Museum. There was a total of 88 attacks in 2024, with 47 unprovoked attacks. This is down from the 5-year average of 64 unprovoked shark attacks globally. The majority of shark attacks occur in the United States (60% of unprovoked attacks). Australia is the next leading location, however there are significantly less attacks there annually.
