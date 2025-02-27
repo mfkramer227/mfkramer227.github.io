@@ -17,3 +17,7 @@ This infographic displays the dispersal of undergraduate students across the col
 Source: [International Shark Attack File- Yearly Worldwide Summary](https://www.floridamuseum.ufl.edu/shark-attacks/yearly-worldwide-summary/)
 
 This infographic displays the breakdown of shark attack classfication by frequency using data from 2024. All of that data included is from the Yearly WorldWide Shark Attack Summary (2024) within the International Shark Attack File from the Florida Museum. There was a total of 88 shark attacks in 2024, with 47 unprovoked attacks. This is down from the 5-year average of 64 unprovoked shark attacks globally. Unprovoked attacks are the most common classification of shark attacks. The majority of shark attacks occur in the United States (60% of unprovoked attacks). Australia is the next leading location, however there are significantly less attacks there annually.
+
+## Lehigh-Lafeyette Rivalry History
+
+![Timeline](<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xuY4upIooEeszZ_lCmeNx24eSFWe0rHe9ZdqH2xqVNk&font=Default&lang=en&initial_zoom=2&height=650" width="100%" height="650" frameborder="0"></iframe>)
