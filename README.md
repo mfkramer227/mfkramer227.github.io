@@ -23,4 +23,4 @@ This infographic displays the breakdown of shark attack classfication by frequen
 ![Timeline](<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>frameborder="0"></iframe>)
 
 ## History of Pi Beta Phi Fraternity
-![Timeline](<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=162Og-MiqGcusBIUtagTmfuHw_jT7h441x5CcPRgOWsU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>)
+![Timeline](src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=162Og-MiqGcusBIUtagTmfuHw_jT7h441x5CcPRgOWsU&font=Default&lang=en&initial_zoom=2&height=650')
