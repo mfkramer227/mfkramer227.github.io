@@ -20,7 +20,7 @@ This infographic displays the breakdown of shark attack classfication by frequen
 
 ## Lehigh-Lafeyette Rivalry History
 
-![Timeline](<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1nImZI6ezbFUDTReWAJHO_RgjS2iB09LSlfy9C9Fw7JM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>)
+![Timeline]('https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1nImZI6ezbFUDTReWAJHO_RgjS2iB09LSlfy9C9Fw7JM&font=Default&lang=en&initial_zoom=2&height=650')
 
 ## History of Pi Beta Phi Fraternity
 ![Timeline](src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=162Og-MiqGcusBIUtagTmfuHw_jT7h441x5CcPRgOWsU&font=Default&lang=en&initial_zoom=2&height=650')
