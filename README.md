@@ -28,3 +28,5 @@ This infographic displays the breakdown of shark attack classfication by frequen
 ## Chart of Lehigh University Undergraduate Enrollment
 ![Picture](https://github.com/mfkramer227/mfkramer227.github.io/blob/main/Fall_2024_Lehigh_University_Undergraduate_Enrollment_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
 
+## Chart of Most Popular Countries to Travel to 2021
+![Picture](https://github.com/mfkramer227/mfkramer227.github.io/blob/main/Most_Popular_Countries_to_Travel_2021_Tourists_(millions)_chartbuilder.png?raw=true)
