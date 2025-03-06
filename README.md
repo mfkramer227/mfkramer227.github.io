@@ -26,4 +26,5 @@ This infographic displays the breakdown of shark attack classfication by frequen
 ![Timeline](src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=162Og-MiqGcusBIUtagTmfuHw_jT7h441x5CcPRgOWsU&font=Default&lang=en&initial_zoom=2&height=650')
 
 ## Chart of Lehigh University Undergraduate Enrollment
-![Picture](
+![Picture](https://github.com/mfkramer227/mfkramer227.github.io/blob/main/Fall_2024_Lehigh_University_Undergraduate_Enrollment_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
+
