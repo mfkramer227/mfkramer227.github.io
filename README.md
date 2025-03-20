@@ -32,4 +32,4 @@ This infographic displays the breakdown of shark attack classfication by frequen
 ![Picture](https://github.com/mfkramer227/mfkramer227.github.io/blob/main/Most_Popular_Countries_to_Travel_2021_Tourists_(millions)_chartbuilder.png?raw=true)
 
 ## Map of Top 20 Cycling Cities
-![Map](https://www.google.com/maps/d/u/0/embed?mid=11q9E_kB9gEGIJQvATzkpSKFsZh-NMRc&ehbc=2E312F)
+![Map] (https://www.google.com/maps/d/u/0/embed?mid=11q9E_kB9gEGIJQvATzkpSKFsZh-NMRc&ehbc=2E312F)
