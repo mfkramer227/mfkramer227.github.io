@@ -33,4 +33,4 @@ This infographic displays the breakdown of shark attack classfication by frequen
 
 ## Map of Top 20 Cycling Cities
 
-![Map](https://www.google.com/maps/d/u/0/embed?mid=11q9E_kB9gEGIJQvATzkpSKFsZh-NMRc&ehbc=2E312F)
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=11q9E_kB9gEGIJQvATzkpSKFsZh-NMRc&ehbc=2E312F" width="640" height="480"></iframe>
