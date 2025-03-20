@@ -26,10 +26,10 @@ This infographic displays the breakdown of shark attack classfication by frequen
 ![Timeline](src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=162Og-MiqGcusBIUtagTmfuHw_jT7h441x5CcPRgOWsU&font=Default&lang=en&initial_zoom=2&height=650')
 
 ## Chart of Lehigh University Undergraduate Enrollment
-![Picture](https://github.com/mfkramer227/mfkramer227.github.io/blob/main/Fall_2024_Lehigh_University_Undergraduate_Enrollment_Percent_of_Undergraduate_Enrollment_chartbuilder%20(1).png?raw=true))
+![Picture](https://github.com/mfkramer227/mfkramer227.github.io/blob/main/Fall_2024_Lehigh_University_Undergraduate_Enrollment_Percent_of_Undergraduate_Enrollment_chartbuilder%20(1).png?raw=true)
 
 ## Chart of Most Popular Countries to Travel to 2021
 ![Picture](https://github.com/mfkramer227/mfkramer227.github.io/blob/main/Most_Popular_Countries_to_Travel_2021_Tourists_(millions)_chartbuilder.png?raw=true)
 
 ## Map of Top 20 Cycling Cities
-![Map](<iframe src="https://www.google.com/maps/d/u/0/embed?mid=11q9E_kB9gEGIJQvATzkpSKFsZh-NMRc&ehbc=2E312F" width="640" height="480"></iframe>)
+![Map]("https://www.google.com/maps/d/u/0/embed?mid=11q9E_kB9gEGIJQvATzkpSKFsZh-NMRc&ehbc=2E312F" width="640" height="480"></iframe>)
