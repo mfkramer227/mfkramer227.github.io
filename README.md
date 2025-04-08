@@ -16,15 +16,19 @@ This infographic displays the dispersal of undergraduate students across the col
 ![Picture](https://github.com/mfkramer227/mfkramer227.github.io/blob/main/Shark%20Attacks%20Worldwide%20(2).jpg?raw=true)
 Source: [International Shark Attack File- Yearly Worldwide Summary](https://www.floridamuseum.ufl.edu/shark-attacks/yearly-worldwide-summary/)
 
-This infographic displays the breakdown of shark attack classfication by frequency using data from 2024. All of that data included is from the Yearly WorldWide Shark Attack Summary (2024) within the International Shark Attack File from the Florida Museum. There was a total of 88 shark attacks in 2024, with 47 unprovoked attacks. This is down from the 5-year average of 64 unprovoked shark attacks globally. Unprovoked attacks are the most common classification of shark attacks. The majority of shark attacks occur in the United States (60% of unprovoked attacks). Australia is the next leading location, however there are significantly less attacks there annually.
+This infographic displays the breakdown of shark attack classfication by frequency using data from 2024. All of the data is from the Yearly WorldWide Shark Attack Summary (2024) within the International Shark Attack File from the Florida Museum. There was a total of 88 shark attacks in 2024, with 47 unprovoked attacks. This is down from the 5-year average of 64 unprovoked shark attacks globally. Unprovoked attacks are the most common classification of shark attacks. The majority of shark attacks occur in the United States (60% of unprovoked attacks). Australia is the next leading location, however there are significantly less attacks there annually.
 
 ## Lehigh-Lafeyette Rivalry History
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vQVQDgsqANK1jH-gU3EikwG9ghDH94KD1XVWjqFsohU2SUVXr8iCbU7Jpq-AjsLfCR6hadtjBJwrpzU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+This interactive timeline displays key moments in the history of the Lehigh-Lafayette Rivalry. The event infromation and dates are sourced from Lehigh University's archive and [Wikipedia](https://en.wikipedia.org/wiki/The_Rivalry_(Lafayette%E2%80%93Lehigh)). The photo credits are displayed under each picture and come from a variety of sources. The Lehigh-Lafayette Rivalry is the most played and longest uninterrupted college football rivalry. The most recent game was played on November 23, 2024 and was the 160th Rivalry meeting.
+
 ## History of Pi Beta Phi Fraternity
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vQG1kAroXcyBJ8I7eYlbDjfnUfB_uyGRCbADNWQZc192BfJdzfRAp88onmyUX3S9eCkRHeLg8OkWTat&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+This interactive timeline displays key moments in the foudning and history of Pi Beta Phi Fraternity. The event dates and details are from [Pi Beta Phi's website](https://www.pibetaphi.org/). The photo credits are written under each picture and come Pi Beta Phi archives. Pi Beta Phi was the first secret society of women and is contemporarily known as a sorority despite it being named Pi Beta Phi fraternity. It was founded in 1867 and has recognized over 206 chapters across the United States and Canada since then.
 
 ## Chart of Lehigh University Undergraduate Enrollment
 ![Picture](https://github.com/mfkramer227/mfkramer227.github.io/blob/main/Fall_2024_Lehigh_University_Undergraduate_Enrollment_Percent_of_Undergraduate_Enrollment_chartbuilder%20(1).png?raw=true)
