@@ -37,8 +37,16 @@ This interactive timeline displays key moments in the foudning and history of Pi
 ## Chart of Lehigh University Undergraduate Enrollment
 ![Picture](https://github.com/mfkramer227/mfkramer227.github.io/blob/main/Fall_2024_Lehigh_University_Undergraduate_Enrollment_Percent_of_Undergraduate_Enrollment_chartbuilder%20(1).png?raw=true)
 
+Source: [Lehigh Institutional Prfile](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf)
+
+This bar chart displays the breakdown of Lehigh's undergraduate enrollment by college degree program. The data represents the 2024 incoming freshman class and can be found on [Lehigh's website](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf). The College of Arts and Sciences has the highest percentage of enrollment despite Lehigh being known for its undergraduate engineering program. Intercollegiate programs include IBE (Integrated Business and Engineering), CSB (Computer Science and Business), and IDEAS (Integrated Degree in Engineering, Arts and Sciences).
+
 ## Chart of Most Popular Countries to Travel to 2021
 ![Picture](https://github.com/mfkramer227/mfkramer227.github.io/blob/main/Most_Popular_Countries_to_Travel_2021_Tourists_(millions)_chartbuilder.png?raw=true)
+
+Source: [UN World Toursim Dashboard] (https://www.unwto.org/tourism-data/un-tourism-tourism-dashboard)
+
+This bar chart displays the top 10 most popular countries to travel to in 2021, based on number of tourists. The data is sourced from UN World Tourism statisctics; [UN World Toursim Dashboard] (https://www.unwto.org/tourism-data/un-tourism-tourism-dashboard). The data is displayed in millions of tourists. France led with 48.4 million tourists in 2021. The list is dominated by European countries, where travel costs between countries is relatively lower.
 
 ## Map of Top 20 Cycling Cities
 
