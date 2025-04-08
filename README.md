@@ -44,7 +44,7 @@ This bar chart displays the breakdown of Lehigh's undergraduate enrollment by co
 ## Chart of Most Popular Countries to Travel to 2021
 ![Picture](https://github.com/mfkramer227/mfkramer227.github.io/blob/main/Most_Popular_Countries_to_Travel_2021_Tourists_(millions)_chartbuilder.png?raw=true)
 
-Source: [UN World Toursim Dashboard] (https://www.unwto.org/tourism-data/un-tourism-tourism-dashboard)
+Source: [UN World Toursim Dashboard](https://www.unwto.org/tourism-data/un-tourism-tourism-dashboard)
 
 This bar chart displays the top 10 most popular countries to travel to in 2021, based on number of tourists. The data is sourced from UN World Tourism statisctics; [UN World Toursim Dashboard] (https://www.unwto.org/tourism-data/un-tourism-tourism-dashboard). The data is displayed in millions of tourists. France led with 48.4 million tourists in 2021. The list is dominated by European countries, where travel costs between countries is relatively lower.
 
@@ -52,14 +52,24 @@ This bar chart displays the top 10 most popular countries to travel to in 2021, 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=11q9E_kB9gEGIJQvATzkpSKFsZh-NMRc&ehbc=2E312F" width="640" height="480"></iframe>
 
+Source:[Wired](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/)
+
+This map displays the top 20 cities for cycling globally in 2019; the metrics evaluated bike-friendliness and accessibility. The top city was Copenhagen, denamr where 62% of its citizens cycle to work or school each day. the city has spent over $45 per caipta on bicycle infrastructure. Copenhagen topped the charts in previous years alongside Amsterdam which takes the number 2 spot for 2019. [Wired](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/) evaluates the cities on 14 parameters including bike culture and streetscape design.
+
 ## Map of Top 8 Cities with Most Dogs per People
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1nUeHJmHHf_KZJmJPDVlsr7suBBD7CE0&ehbc=2E312F" width="640" height="480"></iframe>
 
+Source: [Protect My Paws](https://protectmypaws.com/best-cities-for-dog-lovers-in-the-world/)
+
+This map displays the top 8 cities with most dogs per capita globally, using 2022 data on population and registered dogs. [Protect My Paws](https://protectmypaws.com/best-cities-for-dog-lovers-in-the-world/) organized the data by number of dogs per 100 people. Houstan led the charge with 52.2 dogs for every 100 people, and 1.2 million dogs in the city overall. Four of the eight cities were in the United States, yet the U.S. cat population is rising faster than the dog population according to Protect My Paws.
 
 ## Lehigh Party Location Preferences Analysis
 <div class='tableauPlaceholder' id='viz1744126598389' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FirstDataset_17432996014540&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='FirstDataset_17432996014540&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FirstDataset_17432996014540&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1744126598389');var vizElement = divElement.getElementsByTagName('object')[0];if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='1027px';}var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
 
+Source: [Student survey results](https://docs.google.com/spreadsheets/d/1M3fvI1f7l4QP_zvlo5YA405N-6oZXp8SA1btxvsUyeI/edit?usp=sharing)
+
+This dashboard of interactive graphs show the party preferences of students at Lehigh university based on data gathered in a student survey. Students in Data Journalism sent out this [survey](https://coursesite.lehigh.edu/pluginfile.php/8419479/course/section/5848650/Lehigh%20Party%20Scene%20Survey.pdf) to students and gathered these [results](https://docs.google.com/spreadsheets/d/1M3fvI1f7l4QP_zvlo5YA405N-6oZXp8SA1btxvsUyeI/edit?usp=sharing). The graph on the left titled "Party Location Preference by Gender" allows users to filter party preferences by gender to analyze the distribution of off-campus, fraternity, and no preference answers. The graph on the top right shows the general population preference distribtion and the one below it shows the affiliation breakdown of individuals' responses.
 
 ## Higher Education Institution Map
 
