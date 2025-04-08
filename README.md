@@ -23,7 +23,8 @@ This infographic displays the breakdown of shark attack classfication by frequen
 ![Timeline]('https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1nImZI6ezbFUDTReWAJHO_RgjS2iB09LSlfy9C9Fw7JM&font=Default&lang=en&initial_zoom=2&height=650')
 
 ## History of Pi Beta Phi Fraternity
-![Timeline](src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=162Og-MiqGcusBIUtagTmfuHw_jT7h441x5CcPRgOWsU&font=Default&lang=en&initial_zoom=2&height=650')
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vQG1kAroXcyBJ8I7eYlbDjfnUfB_uyGRCbADNWQZc192BfJdzfRAp88onmyUX3S9eCkRHeLg8OkWTat&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Chart of Lehigh University Undergraduate Enrollment
 ![Picture](https://github.com/mfkramer227/mfkramer227.github.io/blob/main/Fall_2024_Lehigh_University_Undergraduate_Enrollment_Percent_of_Undergraduate_Enrollment_chartbuilder%20(1).png?raw=true)
