@@ -22,11 +22,15 @@ This infographic displays the breakdown of shark attack classfication by frequen
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vQVQDgsqANK1jH-gU3EikwG9ghDH94KD1XVWjqFsohU2SUVXr8iCbU7Jpq-AjsLfCR6hadtjBJwrpzU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+Source: [Wikipedia](https://en.wikipedia.org/wiki/The_Rivalry_(Lafayette%E2%80%93Lehigh))
+
 This interactive timeline displays key moments in the history of the Lehigh-Lafayette Rivalry. The event infromation and dates are sourced from Lehigh University's archive and [Wikipedia](https://en.wikipedia.org/wiki/The_Rivalry_(Lafayette%E2%80%93Lehigh)). The photo credits are displayed under each picture and come from a variety of sources. The Lehigh-Lafayette Rivalry is the most played and longest uninterrupted college football rivalry. The most recent game was played on November 23, 2024 and was the 160th Rivalry meeting.
 
 ## History of Pi Beta Phi Fraternity
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vQG1kAroXcyBJ8I7eYlbDjfnUfB_uyGRCbADNWQZc192BfJdzfRAp88onmyUX3S9eCkRHeLg8OkWTat&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+Source: [Pi Beta Phi](https://www.pibetaphi.org/)
 
 This interactive timeline displays key moments in the foudning and history of Pi Beta Phi Fraternity. The event dates and details are from [Pi Beta Phi's website](https://www.pibetaphi.org/). The photo credits are written under each picture and come Pi Beta Phi archives. Pi Beta Phi was the first secret society of women and is contemporarily known as a sorority despite it being named Pi Beta Phi fraternity. It was founded in 1867 and has recognized over 206 chapters across the United States and Canada since then.
 
